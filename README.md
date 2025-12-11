@@ -20,8 +20,10 @@ Uma aplicação minimalista de timer Pomodoro com lista de tarefas integrada. Pr
 
 Como este projeto utiliza Tailwind CSS via CDN e JavaScript puro, não é necessário nenhum processo de build ou instalação de pacotes.
 
-1. Clone este repositório em sua máquina local.
-2. Abra o arquivo `index.html` em qualquer navegador moderno.
+1. Acesse a aplicação online: https://timetostudy-beryl.vercel.app/
+2. Se quiser, clone este repositório em sua máquina local.
+3. Abra o arquivo `index.html` em qualquer navegador moderno.
+
 
 ## Estrutura do Projeto
 
